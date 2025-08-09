@@ -1,0 +1,111 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "03I63C3wnaN0arcaWj2uQrp9_V174ptwyCPfMBeyZ_s-1754751575-1.0.1.1-QNkqgJETsLkUqCE9sfNs26aswED_N9ypG2Kv2fVNUHOcdxRyGEjzf3yTr1JoO_uhr2cnv5rWXPf0mi4Cg5yzjMkBLU7yGOk8QMOnQ3ArLHY",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1754753354.954324,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1953936975.1754751556",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1762527556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.426965754.1754751556",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1789311555.52576,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1754751555671.387183619839658454",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1762527557,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InRlYW02OXJhYm90YXVhQGdtYWlsLmNvbSIsImVtYWlsIjoidGVhbTY5cmFib3RhdWFAZ21haWwuY29tIiwic3ViIjoiMzk1YmI4MDItZmFmMC00YjhkLWE0MmYtMzViNDIwNTM2ZThjIiwiSWQiOiIzOTViYjgwMi1mYWYwLTRiOGQtYTQyZi0zNWI0MjA1MzZlOGMiLCJFbWFpbElkIjoiOTQxOTEyNyIsIk5vdGVib29rSWQiOiI4MzM1MDQyIiwiSXNFbXBsb3llciI6IjEiLCJNdWx0aVVzZXJJZCI6IjE4NjIyMDciLCJDb21wYW55TmFtZSI6IlRlYW0gNjkiLCJVc2VyTmFtZSI6Ikdlcm1hbiBMZWUgMjMyMjMyMzMzMTI0IiwiUm9sZUlkIjoiMSIsIklzQWxsb3dlZFRvUHVibGlzaCI6InRydWUiLCJQaG9uZSI6IjM4MDk5MDU1MjIxMyIsIkF2YXRhclVybCI6IjgzMzUwNDJfMjAyNTA2MDMxNDQ1NDAucG5nIiwiVG9rZW5DcmVhdGlvbkRhdGUiOiI4LzkvMjAyNSA1OjU5OjM2IFBNIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvaGFzaCI6IkN0RHZ4TGtZRGY0bU55eHdGbWY5K3pxMWRyOG50bFRNekZud01tV0Foa1E9IiwiY2VydHRodW1icHJpbnQiOiI4SWhhVEE2dWI1T1F0OUhKdC9QZXA2Q0pvNFVRa29GWkh3M1hlV2lRYXhjZ1BCcVhlOWd4aEJ5QmhkRk1JRGc0RjBvRi9qa0JKajJ0N1NUcjBHRTk4T2huQmdrRmFLS0txTmJVOG45UHl6Y2VmU2l6czNmQXF4blFLTVNiaUs1TTg3eDV5OFJ1Uk9HeUw0bDFPRzA2Znc9PSIsImV4cCI6MTc1NTM1NjM3NiwiaXNzIjoiZGV2LnJvYm90YS51YSIsImF1ZCI6ImRldi5yb2JvdGEudWEifQ.1HK4xz_iX1m8ZLZydqC8-Ig-hMDJGXB4voE0YBKC0v4",
+      "domain": ".dev.robota.ua",
+      "path": "/",
+      "expires": 1786892356.514333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSessionUser_2729827",
+      "value": "eyJpZCI6IjNlZGEyZmM4LTJhMGItNThmYi1iMDhjLWUxMWViNGIyY2YxNCIsImNyZWF0ZWQiOjE3NTQ3NTE1NTY5MjIsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1786287556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_2729827",
+      "value": "eyJpZCI6ImI5OTg4ZjNkLWZhNTAtNGVmNC04Mjk2LTBiZDdiYjhhYzg2NSIsImMiOjE3NTQ3NTE1NTY5MjIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1754753356,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_WS6TVT9PSM",
+      "value": "GS2.1.s1754751555$o1$g1$t1754751557$j58$l1$h1254493201",
+      "domain": ".robota.ua",
+      "path": "/",
+      "expires": 1789311557.270643,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://alliance-desktop-employer3.dev.robota.ua",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "notification_disable_sound",
+          "value": "false"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"creationTimeMs\":1754751555507},\"expires\":1762527555507}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1754751555664"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1754751557205"
+        }
+      ]
+    }
+  ]
+}
