@@ -40,7 +40,7 @@ test('Створення гарячої вакансії', async ({ page }) => {
   await page.getByRole('button', { name: 'Опублікувати', exact: true }).click();
   await page.getByRole('button', { name: 'Зробити гарячою' }).click();
   // await page.getByRole('button', { name: 'Активувати пакет й опублікувати' }).click();
-  const response = await page.waitForResponse((resp) => resp.url().includes('?q=vacancyMakeHot'));
+  const response = await page.waitForResponse((resp) => resp.url().includes('?q=createVacancy'));
   await expect(response.status()).toBe(200);
 });
 
