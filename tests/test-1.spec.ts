@@ -44,7 +44,7 @@ test('Створення гарячої вакансії', async ({ page }) => {
   await expect(response.status()).toBe(200);
 });
 
-test('Зереження чернетки', async ({ page }) => {
+test('Збереження чернетки', async ({ page }) => {
   await page.goto('https://alliance-desktop-employer3.dev.robota.ua/my/vacancies/create');
   await page.getByRole('textbox', { name: 'Кого ви шукаєте? *' }).click();
   await page.getByRole('textbox', { name: 'Кого ви шукаєте? *' }).fill('QA-інженер');
