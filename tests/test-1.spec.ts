@@ -19,7 +19,6 @@ async function fillBaseVacancy(page) {
 
   // Генерація тексту через GPT
   await page.getByRole('button', { name: 'gpt' }).click();
-  await page.waitForTimeout(5000);
   await expect(page.getByRole('paragraph').filter({ hasText: 'Готово' })).toBeVisible({
     timeout: 15000,
   });
